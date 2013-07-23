@@ -2,7 +2,9 @@ Hello. This work I have done as part of Conjura'12, technomanagerial fest done a
 
 Project is implemented using Adobe Flash CS4 and basic Action Script 2.
 
-You can download the eBrochure.fla file to voew the source and executable.exe contain the executable.
+You can download the eBrochure.fla file to view the source and executable.exe to run the presentation.
 
-You can view the published version by visiting http://conjura.in/2012/ebrochure/.
+Thank You.
+
+
 
